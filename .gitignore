@@ -1,0 +1,6 @@
+*.pyc
+*.wav
+*.avi
+*.csv
+data
+data/*
